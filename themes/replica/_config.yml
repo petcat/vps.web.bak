@@ -1,5 +1,5 @@
 # left-side user profile
-avatar: /images/cloud.png
+avatar: ../images/cloud.png
 location:
 email:
 social:
